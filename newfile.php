@@ -1,0 +1,3 @@
+<?
+echo "newfile.php";
+?>
